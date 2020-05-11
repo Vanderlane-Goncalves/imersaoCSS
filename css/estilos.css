@@ -1,6 +1,6 @@
 body {
     background-image: url('http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
-    background-size:auto 100vh;/* o vh é o 100% da altura viewporte-height*/
+    background-size:auto 200vh;/* o vh é o 100% da altura viewporte-height*/
     font-family: Arial;
     height: 100vh;
   }
